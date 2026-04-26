@@ -1,0 +1,36 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-goguard-dev-dbb85-authRole",
+      "UnauthRoleArn": "arn:aws:iam::911788524242:role/amplify-goguard-dev-dbb85-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::911788524242:role/amplify-goguard-dev-dbb85-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-goguard-dev-dbb85-deployment",
+      "UnauthRoleName": "amplify-goguard-dev-dbb85-unauthRole",
+      "StackName": "amplify-goguard-dev-dbb85",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:911788524242:stack/amplify-goguard-dev-dbb85/2c069eb0-4087-11f1-9ac8-0a2a7953735f",
+      "AmplifyAppId": "d373jgkgvu4zmc",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-goguard-dev-dbb85-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "goguard3006a09c3006a09c": {}
+      },
+      "function": {
+        "goguardlambda": {
+          "deploymentBucketName": "amplify-goguard-dev-dbb85-deployment",
+          "s3Key": "amplify-builds/goguardlambda-3970644232394237784d-build.zip"
+        }
+      },
+      "api": {
+        "apigoguard": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d373jgkgvu4zmc",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
