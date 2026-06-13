@@ -3,7 +3,7 @@
 > Flutter e-wallet app with AI-powered scam detection, built for TNG Digital FINHACK 2026.
 > Selected Top 300 nationally — only UKM team competing.
 
-![GoGuard Banner](screenshots/banner.png)
+![GoGuard Banner](assets/banner.jpg)
 
 ## 📱 Demo
 
