@@ -3,11 +3,9 @@
 > Flutter e-wallet app with AI-powered scam detection, built for TNG Digital FINHACK 2026.
 > Selected Top 300 nationally — only UKM team competing.
 
-![GoGuard Banner](assets/banner.jpg)
-
 ## 📱 Demo
 
-![App Demo](assets/demo.gif)
+![GoGuard Demo](assets/demo.gif)
 
 **Test Login:**
 - Email: `demo@goguard.com`
@@ -16,8 +14,6 @@
 ---
 
 ## 🧠 How It Works
-
-![System Architecture](assets/architecture.png)
 
 GoGuard uses a **hybrid AI risk engine** combining two models:
 
@@ -35,26 +31,12 @@ GoGuard uses a **hybrid AI risk engine** combining two models:
 
 ## ✨ Features
 
-![Features Overview](assets/features.png)
-
 - **Real-Time Scam Detection** — AI analysis on every transaction
 - **LLM Explanation Layer** — Human-readable fraud reasoning per flagged transfer
 - **60-Second Breathing Room** — HIGH risk transfers require cooldown before proceeding
 - **Scammer Warning List** — Community-powered database with live phone lookup
 - **Trusted Contacts** — Whitelist verified contacts to skip scam check
 - **Real-Time Balance** — Updates instantly after every transfer
-
----
-
-## 🖼️ Screenshots
-
-| Home Dashboard | Transfer Flow | Risk Warning |
-|---|---|---|
-| ![Home](assets/home.png) | ![Transfer](assets/transfer.png) | ![Warning](assets/warning.png) |
-
-| LOW Risk | HIGH Risk | LLM Explanation |
-|---|---|---|
-| ![Low](assets/low_risk.png) | ![High](assets/high_risk.png) | ![Explain](assets/explanation.png) |
 
 ---
 
@@ -70,22 +52,4 @@ GoGuard uses a **hybrid AI risk engine** combining two models:
 
 ---
 
-## 🚀 Run Locally
-
-```bash
-# Install dependencies
-flutter pub get
-
-# Run on Chrome
-flutter run -d chrome
-
-# Build for web
-flutter build web --release
-```
-
----
-
-## 👩‍💻 Developer
-
-**Nurul Aida Binti Jamil** — Backend Lead
-[LinkedIn](https://linkedin.com/in/aidajamil) · [GitHub](https://github.com/aidajamil21)
+## 📊 Risk Scoring
