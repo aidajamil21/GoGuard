@@ -17,7 +17,7 @@
 
 ## 🧠 How It Works
 
-![System Architecture](screenshots/architecture.png)
+![System Architecture](assets/architecture.png)
 
 GoGuard uses a **hybrid AI risk engine** combining two models:
 
