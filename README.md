@@ -7,7 +7,7 @@
 
 ## 📱 Demo
 
-![App Demo](screenshots/demo.gif)
+![App Demo](assets/demo.gif)
 
 **Test Login:**
 - Email: `demo@goguard.com`
@@ -35,7 +35,7 @@ GoGuard uses a **hybrid AI risk engine** combining two models:
 
 ## ✨ Features
 
-![Features Overview](screenshots/features.png)
+![Features Overview](assets/features.png)
 
 - **Real-Time Scam Detection** — AI analysis on every transaction
 - **LLM Explanation Layer** — Human-readable fraud reasoning per flagged transfer
@@ -50,11 +50,11 @@ GoGuard uses a **hybrid AI risk engine** combining two models:
 
 | Home Dashboard | Transfer Flow | Risk Warning |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Transfer](screenshots/transfer.png) | ![Warning](screenshots/warning.png) |
+| ![Home](assets/home.png) | ![Transfer](assets/transfer.png) | ![Warning](assets/warning.png) |
 
 | LOW Risk | HIGH Risk | LLM Explanation |
 |---|---|---|
-| ![Low](screenshots/low_risk.png) | ![High](screenshots/high_risk.png) | ![Explain](screenshots/explanation.png) |
+| ![Low](assets/low_risk.png) | ![High](assets/high_risk.png) | ![Explain](assets/explanation.png) |
 
 ---
 
